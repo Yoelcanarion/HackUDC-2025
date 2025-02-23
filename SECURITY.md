@@ -7,7 +7,7 @@ Security is a top priority in this project. This policy outlines how to report v
 If you discover a vulnerability or security issue in this project, please follow these steps:
 
 1. **Private Disclosure:**  
-   Send an email to [pedro.rocha@udc.es] (replace with your official contact email) with the following information:
+   Send an email to [pedro.rocha@udc.es] with the following information:
    - A detailed description of the vulnerability.
    - Steps to reproduce the issue.
    - The potential impact and possible exploitation scenarios.
