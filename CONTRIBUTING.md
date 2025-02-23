@@ -1,24 +1,24 @@
-# Guía de Contribución
+# Contributing Guidelines
 
-¡Gracias por tu interés en contribuir a este proyecto! Tu ayuda es muy valiosa para mejorar y mantener el repositorio. Por favor, sigue estas directrices para asegurarte de que tus contribuciones sean fáciles de integrar.
+Thank you for your interest in contributing to this project! Your help is invaluable for improving and maintaining the repository. Please follow these guidelines to ensure that your contributions are easy to integrate.
 
-## Reporte de Errores y Solicitudes de Funcionalidades
+## Bug Reports and Feature Requests
 
-- **Errores:**  
-  Si encuentras un error, revisa primero la sección de [Issues](https://github.com/tu_usuario/tu_repositorio/issues) para ver si ya ha sido reportado. Si no es así, por favor crea un nuevo issue con:
-  - Descripción detallada del problema.
-  - Pasos para reproducirlo.
-  - Información del entorno (versión de Python, sistema operativo, etc.).
+- **Bugs:**  
+  If you find a bug, please first check the [Issues](https://github.com/your_username/your_repository/issues) section to see if it has already been reported. If not, create a new issue with:
+  - A detailed description of the problem.
+  - Steps to reproduce the issue.
+  - Environment information (Python version, operating system, etc.).
 
-- **Nuevas Funcionalidades:**  
-  Si tienes una idea o propuesta para mejorar el proyecto, abre un issue describiendo:
-  - La funcionalidad o mejora propuesta.
-  - El problema que resuelve o la necesidad que cubre.
-  - Posibles enfoques para implementarla.
+- **Feature Requests:**  
+  If you have an idea or proposal to enhance the project, open an issue describing:
+  - The proposed feature or improvement.
+  - The problem it solves or the need it addresses.
+  - Possible approaches for implementation.
 
-## Proceso para Pull Requests
+## Pull Request Process
 
-1. **Fork** el repositorio.
-2. Crea una nueva rama para tu contribución:
+1. **Fork** the repository.
+2. Create a new branch for your contribution:
    ```bash
-   git checkout -b mi-nueva-funcionalidad
+   git checkout -b my-new-feature
