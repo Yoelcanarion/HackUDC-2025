@@ -14,7 +14,7 @@ If you discover a vulnerability or security issue in this project, please follow
    - Any other relevant information that can help us understand and resolve the issue.
 
 2. **Responsible Disclosure:**  
-   Please refrain from publicly disclosing the vulnerability until a fix has been confirmed. This allows us to address the issue in a controlled manner and prevent unnecessary risks to users.
+   Please refrain from publicly disclosing the vulnerability until a fix has been confirmed. This allows us to address the issue on a controlled manner and prevent unnecessary risks to users.
 
 3. **Acknowledgment:**  
    Once we receive your report, we will send an acknowledgment and keep you updated on the progress of the resolution.
